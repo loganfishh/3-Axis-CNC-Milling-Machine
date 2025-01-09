@@ -12,7 +12,7 @@ A repository showcasing the design and construction of my 3-axis CNC milling mac
 Drawings like the one below were created for all non-standard components which includes the entire gantry assembly as well as any adapters between standard parts.
 ![Technical drawing of the right side gantry support](https://github.com/loganfishh/3-Axis-CNC-Milling-Machine/blob/main/images/right_side_gantry_support.png)
 ## 2.2 Circuit Diagram
-Not currently available, but may upload one if someone requests it. See [section 2.3](#23-wiring) below for an image of the actual wiring.
+![Circuit diagram](https://github.com/loganfishh/3-Axis-CNC-Milling-Machine/blob/main/images/cnc_circuit_diagram.png)
 ## 2.3 Wiring
 ![Annotated image of the wiring inside the electronics enclosure](https://github.com/loganfishh/3-Axis-CNC-Milling-Machine/blob/main/images/wiring_annotated.png)
 
